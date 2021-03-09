@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Observer_1\Observer_1\bin\Debug\netcoreapp3.1\Observer_1.exe
+C:\Users\User\source\repos\Observer_1\Observer_1\bin\Debug\netcoreapp3.1\Observer_1.deps.json
+C:\Users\User\source\repos\Observer_1\Observer_1\bin\Debug\netcoreapp3.1\Observer_1.runtimeconfig.json
+C:\Users\User\source\repos\Observer_1\Observer_1\bin\Debug\netcoreapp3.1\Observer_1.runtimeconfig.dev.json
+C:\Users\User\source\repos\Observer_1\Observer_1\bin\Debug\netcoreapp3.1\Observer_1.dll
+C:\Users\User\source\repos\Observer_1\Observer_1\bin\Debug\netcoreapp3.1\Observer_1.pdb
+C:\Users\User\source\repos\Observer_1\Observer_1\obj\Debug\netcoreapp3.1\Observer_1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Observer_1\Observer_1\obj\Debug\netcoreapp3.1\Observer_1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Observer_1\Observer_1\obj\Debug\netcoreapp3.1\Observer_1.AssemblyInfo.cs
+C:\Users\User\source\repos\Observer_1\Observer_1\obj\Debug\netcoreapp3.1\Observer_1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Observer_1\Observer_1\obj\Debug\netcoreapp3.1\Observer_1.dll
+C:\Users\User\source\repos\Observer_1\Observer_1\obj\Debug\netcoreapp3.1\Observer_1.pdb
+C:\Users\User\source\repos\Observer_1\Observer_1\obj\Debug\netcoreapp3.1\Observer_1.genruntimeconfig.cache
